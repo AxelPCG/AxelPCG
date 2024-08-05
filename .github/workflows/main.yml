@@ -19,7 +19,7 @@ jobs:
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.8.1 # Atualize para a versão mais recente que suporta Node.js 16 ou 20
+        uses: crazy-max/ghaction-github-pages@v2.5.0 # Use uma versão disponível e estável
         with:
           target_branch: output
           build_dir: dist
