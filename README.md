@@ -5,7 +5,8 @@ Trabalho como Analista de Dados, sou estudante de Engenharia Eletrônica e Data 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/><i class="devicon-jupyter-plain-wordmark colored" width="40" height="40"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"  width="40" height="40" />
 
           
 ## 🔭 Estou aprendendo
