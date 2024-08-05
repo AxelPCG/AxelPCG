@@ -12,14 +12,17 @@ jobs:
     steps:
       # Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v2.2.1
+        uses: Platane/snk@v3
         with:
-          github_user_name: AxelPCG
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: AxelPCG # Substitua pelo seu nome de usuário
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.5.0 # Use uma versão disponível e estável
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
