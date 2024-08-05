@@ -29,3 +29,4 @@ Trabalho como Analista de Dados, sou estudante de Engenharia Eletrônica e Data 
 </div>
 
 ![Snake animation](https://github.com/AxelPCG/AxelPCG/blob/output/github-contribution-grid-snake.svg)
+
