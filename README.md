@@ -11,7 +11,11 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>       
-</div>       
+</div> 
+
+## 🌟 Featured Projects
+
+- [Fechadura Eletrônica Inteligente](https://github.com/AxelPCG/FECHADURA_ELETRONICA_INTELIGENTE): Construction of an intelligent electronic lock using the CDIO approach (PT-BR).
 
 ## 📈 GitHub Stats
 <div>
