@@ -1,5 +1,5 @@
 # 🧑‍💻 Hello! Welcome to my Github profile.
-## My name is Axel Chepanski!
+## My name is Axel!
 
 I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm passionate about machine learning and artificial intelligence. Here, you will find my projects, contributions, and learnings.
 
