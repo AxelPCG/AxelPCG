@@ -18,10 +18,11 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 - [Fechadura Eletrônica Inteligente](https://github.com/AxelPCG/FECHADURA_ELETRONICA_INTELIGENTE): Construction of an intelligent electronic lock using the CDIO approach (PT-BR).
 
 ## 📈 GitHub Stats
+
 <div>
-<a href="https://github.com/AxelPCG">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelPCG&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AxelPCG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="#AxelPCG-title">
+<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="AxelPCG"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="AxelPCG"/>
 </div>
             
 ## 📲 Contacts:
