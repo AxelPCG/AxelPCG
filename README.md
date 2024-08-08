@@ -21,8 +21,8 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 
 <div>
 <a href="#AxelPCG-title">
-<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="AxelPCG"/>
 <img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="AxelPCG"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="AxelPCG"/>
 </div>
             
 ## 📲 Contacts:
