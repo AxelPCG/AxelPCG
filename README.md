@@ -30,6 +30,7 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 
 - [Data-Science](https://github.com/AxelPCG/Data-Science): This repository contains a collection of projects and educational materials developed in Python and Jupyter Notebooks (.ipynb), exploring fundamental concepts of Data Science and Machine Learning. Each directory corresponds to a specific module, covering different aspects and essential techniques for data analysis, visualization, statistics, and predictive modeling (PT-BR).
 - [Fechadura Eletrônica Inteligente](https://github.com/AxelPCG/FECHADURA_ELETRONICA_INTELIGENTE): Construction of an intelligent electronic lock using the CDIO approach (PT-BR).
+- [TRABALHOS-C](https://github.com/AxelPCG/TRABALHOS-C): This repository offers C language projects and exercises, organized by semester and task, for students and programmers to study, review, or reference (PT-BR).
 
 ## 📈 GitHub Stats
 
