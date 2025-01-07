@@ -44,8 +44,8 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 
 <div>
 <a>
-<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="AxelPCG" width="400" height="220"/>
-<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="AxelPCG" width="400" height="220"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats-modified/main/generated/languages.svg#gh-dark-mode-only" alt="AxelPCG" width="400" height="220"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/AxelPCG/github-stats-modified/main/generated/overview.svg#gh-dark-mode-only" alt="AxelPCG" width="400" height="220"/>
 </div>
             
 ## 📲 Contacts:
