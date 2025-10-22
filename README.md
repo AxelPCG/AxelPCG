@@ -1,7 +1,7 @@
 # 🧑‍💻 Hello! Welcome to my Github profile.
 ## My name is Axel!
 
-I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm passionate about machine learning and artificial intelligence. Here, you will find my projects, contributions, and learnings.
+I work as a AI Developer, I have a degree in Data Science and study Electronic Engineering, I'm passionate about machine learning and artificial intelligence. Here, you will find my projects, contributions, and learnings.
 
 ## 🛠️ Technologies and Tools
 <div>
@@ -25,12 +25,12 @@ I work as a Data Analyst, study Electronic Engineering and Data Science, and I'm
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" height="40"/>
           
 </div>           
           
 ## 🔭 I am learning
 <div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40" height="40"/>
