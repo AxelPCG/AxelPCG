@@ -55,7 +55,7 @@ I am an **AI Developer** with a degree in **Data Science** and currently pursuin
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
 </div>
 
-## 🌟 Featured Projects (Ordered by Complexity)
+## 🌟 Featured Projects
 
 * [**SPLADE-PT-BR**](https://github.com/AxelPCG/SPLADE-PT-BR): Implementation of the SPLADE (Sparse Lexical and Expansion) model for the Portuguese language. This project focuses on **Neural Information Retrieval**, using transformers to create sparse embeddings that allow for high-efficiency semantic search and term expansion.
 
