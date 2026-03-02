@@ -2,7 +2,7 @@
 
 ## My name is Axel!
 
-I am an **AI Developer** with a degree in **Data Science** and currently pursuing a degree in **Electronic Engineering**. I am passionate about Machine Learning, Neural Search, and LLM-powered systems. Here you will find my professional projects, research, and technical experiments.
+I am an **Data Scientist** with a degree in **Data Science** and currently pursuing a degree in **Electronic Engineering**. I am passionate about Machine Learning, Neural Search, and LLM-powered systems. Here you will find my professional projects, research, and technical experiments.
 
 ## 🛠️ Technologies and Tools
 
